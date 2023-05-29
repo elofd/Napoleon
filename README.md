@@ -1,4 +1,4 @@
-﻿# NapoleonTT
+﻿# Napoleon
 Версии пакетов:
 django 4.2
 rest_framework 3.14.0
